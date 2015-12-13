@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>GitHub RedAlert Options</title>
+  <style>
+    body { padding: 10px; text-align: left; }
+    #status { height: 1.5em; margin-bottom: .5em; }
+  </style>
+</head>
+<body>
+
+  <p>
+    You'll need to <a href="https://github.com/settings/tokens/new">create a
+    personal access token</a><br /> with the <code>notifications</code> scope. Copy the token to the field bellow and click save.
+  </p>
+
+  <label>
+    Personal Access Token:
+    <input type="text" id="token">
+  </label>
+  <br>
+  <label>
+    Update interval (in seconds):
+    <input type="number" id="interval">
+  </label>
+
+  <br>
+  <div id="status"></div>
+  <br>
+  <button id="save">Save</button>
+
+
+
+  <script src="options.js"></script>
+
+</body>
+</html>

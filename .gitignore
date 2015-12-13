@@ -1,4 +1,4 @@
 vendor/jquery/src
 .sass-cache
 node_modules
-.idea
+.idea/
