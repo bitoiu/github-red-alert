@@ -34,4 +34,5 @@ Adding the dependency:
 
 ## Special thank you
 
-I've developed most of this extension by editing a very popular extension project called [github-mention-highlighter](https://github.com/benbalter/github-mention-highlighter) by GitHub user [benbalter](https://github.com/benbalter). Most of the code was re-used, including this very same README :smile:
+I've developed most of this extension by editing a very popular extension project called [github-mention-highlighter](https://github.com/benbalter/github-mention-highlighter) by GitHub user [jholt1](https://github.com/jholt1). Most of the code was re-used, including this very same README :smile:
+
